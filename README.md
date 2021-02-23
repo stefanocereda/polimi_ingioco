@@ -1,5 +1,5 @@
 # polimi_ingioco
-This repository contains the dataset (and an example solution) for the PoliMi event ``Mettiti in gioco: scopri come risolvere casi di Machine Learning'': https://www.careerservice.polimi.it/it-IT/Meetings/Home/Index/?eventId=23667
+This repository contains the dataset (and an example solution) for the PoliMi event [Mettiti in gioco: scopri come risolvere casi di Machine Learning](https://www.careerservice.polimi.it/it-IT/Meetings/Home/Index/?eventId=23667)
 
 ## Problem definition
 A modern IT system is composed by many IT layers, each layer has tunable configuration parameters affecting performance.
